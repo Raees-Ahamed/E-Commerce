@@ -1,0 +1,12 @@
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\bin\Debug\netcoreapp3.0\PlaceMe.Infrastructure.deps.json
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\bin\Debug\netcoreapp3.0\PlaceMe.Infrastructure.runtimeconfig.json
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\bin\Debug\netcoreapp3.0\PlaceMe.Infrastructure.runtimeconfig.dev.json
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\bin\Debug\netcoreapp3.0\PlaceMe.Infrastructure.dll
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\bin\Debug\netcoreapp3.0\PlaceMe.Infrastructure.pdb
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\obj\Debug\netcoreapp3.0\PlaceMe.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\obj\Debug\netcoreapp3.0\PlaceMe.Infrastructure.AssemblyInfoInputs.cache
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\obj\Debug\netcoreapp3.0\PlaceMe.Infrastructure.AssemblyInfo.cs
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\obj\Debug\netcoreapp3.0\PlaceMe.Infrastructure.dll
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\obj\Debug\netcoreapp3.0\PlaceMe.Infrastructure.pdb
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\obj\Debug\netcoreapp3.0\PlaceMe.Infrastructure.genruntimeconfig.cache
+D:\GitLab\PlaceMe\PlaceMe.Infrastructure\obj\Debug\netcoreapp3.0\PlaceMe.Infrastructure.csprojAssemblyReference.cache

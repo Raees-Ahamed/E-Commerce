@@ -1,0 +1,4 @@
+D:\GitLab\PlaceMe\PlaceMe.Core\bin\Debug\netcoreapp3.1\PlaceMe.Infrastructure.dll
+D:\GitLab\PlaceMe\PlaceMe.Core\obj\Debug\netcoreapp3.1\PlaceMe.Core.csprojAssemblyReference.cache
+D:\GitLab\PlaceMe\PlaceMe.Core\obj\Debug\netcoreapp3.1\PlaceMe.Core.AssemblyInfoInputs.cache
+D:\GitLab\PlaceMe\PlaceMe.Core\obj\Debug\netcoreapp3.1\PlaceMe.Core.AssemblyInfo.cs

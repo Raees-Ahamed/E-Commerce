@@ -1,0 +1,12 @@
+D:\GitLab\PlaceMe\PlaceMe.Core\bin\Debug\netcoreapp3.0\PlaceMe.Core.deps.json
+D:\GitLab\PlaceMe\PlaceMe.Core\bin\Debug\netcoreapp3.0\PlaceMe.Core.dll
+D:\GitLab\PlaceMe\PlaceMe.Core\bin\Debug\netcoreapp3.0\PlaceMe.Core.pdb
+D:\GitLab\PlaceMe\PlaceMe.Core\bin\Debug\netcoreapp3.0\PlaceMe.Infrastructure.dll
+D:\GitLab\PlaceMe\PlaceMe.Core\bin\Debug\netcoreapp3.0\PlaceMe.Infrastructure.pdb
+D:\GitLab\PlaceMe\PlaceMe.Core\obj\Debug\netcoreapp3.0\PlaceMe.Core.csprojAssemblyReference.cache
+D:\GitLab\PlaceMe\PlaceMe.Core\obj\Debug\netcoreapp3.0\PlaceMe.Core.csproj.CoreCompileInputs.cache
+D:\GitLab\PlaceMe\PlaceMe.Core\obj\Debug\netcoreapp3.0\PlaceMe.Core.AssemblyInfoInputs.cache
+D:\GitLab\PlaceMe\PlaceMe.Core\obj\Debug\netcoreapp3.0\PlaceMe.Core.AssemblyInfo.cs
+D:\GitLab\PlaceMe\PlaceMe.Core\obj\Debug\netcoreapp3.0\PlaceMe.Core.csproj.CopyComplete
+D:\GitLab\PlaceMe\PlaceMe.Core\obj\Debug\netcoreapp3.0\PlaceMe.Core.dll
+D:\GitLab\PlaceMe\PlaceMe.Core\obj\Debug\netcoreapp3.0\PlaceMe.Core.pdb
